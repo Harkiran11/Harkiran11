@@ -1,7 +1,9 @@
 # 👋 Hello, World! I'm Harkiran Panesar
-### 📫 Let's Connect! [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Harkiran11)
+
 
 **Software Engineering Student** @ McMaster University
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Harkiran11)
 
 I'm passionate about building robust, scalable software solutions with a strong interest in backend development, cloud infrastructure, and machine learning. I enjoy turning complex problems into efficient and automated systems.
 
