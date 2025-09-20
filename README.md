@@ -9,8 +9,6 @@ I'm passionate about building robust, scalable software solutions with a strong 
 
 ---
 
-### 🚀 Core Competencies
-
 ### 🛠️ Technologies & Tools
 
 | :--- | :--- |
