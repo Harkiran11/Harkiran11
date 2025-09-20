@@ -53,7 +53,6 @@ I'm passionate about building robust, scalable software solutions with a strong 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harkiran11&show_icons=true&theme=radical" alt="Harkiran's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harkiran11&theme=radical" alt="GitHub Streak" />
 </p>
 
