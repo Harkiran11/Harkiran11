@@ -1,97 +1,45 @@
-<div align="center">
+# 👋 Hello, World! I'm Harkiran Panesar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:21262d&height=150&section=header&text=Harkiran%20Panesar&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Backend%20%26%20ML%20Infra&descSize=20&descAlignY=70" width="100%" />
+**Software Engineering Student** @ McMaster University
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Harkiran11)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harkiran.kps@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Live_Projects-3FB950?style=for-the-badge&logo=render&logoColor=white)](https://ml-experiment-tracker-1.onrender.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=3FB950&center=true&vCenter=true&width=600&lines=Building+at+Scale+(10M%2B+Users);Architecting+High-Performance+Backends;Optimizing+GPU+%26+ML+Infrastructure;Software+Engineering+%40+McMaster+University" alt="Typing SVG" />
+I'm passionate about building robust, scalable software solutions with a strong focus on **high-performance backend architecture, machine learning infrastructure, and GPU-accelerated computing**. I enjoy turning complex problems into highly optimized, automated, and agentic systems.
 
-<p>
-  <a href="https://linkedin.com/in/Harkiran11"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:harkiran.kps@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <img src="https://img.shields.io/badge/Open_to_Work-Internships_%26_New_Grad-3FB950?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
+---
+
+### 🛠️ Technologies & Tools
+
+| Area | Technologies |
+| :--- | :--- |
+| **Languages & Compute** | <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /> <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> |
+| **AI & Machine Learning** | <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> |
+| **Cloud & Architecture** | <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" /> |
+| **Data & Databases** | <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /> |
+| **Frameworks & APIs** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> |
+
+---
+
+### 📌 Highlighted Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[OmniDoc: Multimodal Document Intelligence](https://github.com/Harkiran11/omnidoc)** | Built an inference pipeline and batching logic running Llama 3.2 Vision and Qwen-VL simultaneously on AMD MI300X hardware. Achieved 340 pages/min (18x faster than CPU baseline) for complex chart-level Q&A and semantic citations. | `Python` `ROCm` `Llama Vision` `Qwen-VL` `MI300X` |
+| **[ML Experiment Tracker](https://github.com/Harkiran11/ml-experiment-tracker)** | Developed a high-throughput polling dashboard for tracking ML training runs. Resolved read-heavy bottlenecks by placing Redis in front of PostgreSQL with write-invalidations, achieving sub-100ms reads under load. | `React` `Flask` `Redis` `PostgreSQL` `Docker` |
+| **CUDA Matrix Multiplication Engine** | Engineered a low-level GPU compute kernel utilizing shared memory tiling and memory coalescing. Profiled heavily with NVIDIA Nsight Compute to resolve compute-bound vs memory-bound bottlenecks on massive matrix workloads. | `CUDA` `C++` `NVIDIA Nsight` `GPU Profiling` |
+| **[PathFinderAI: Agentic RAG System](https://github.com/Harkiran11/pathfinderai)** | Architected a multi-agent RAG system with persistent state management across conversational turns. Integrated live external data APIs and semantic vector search using LangGraph for complex reasoning chains. | `Python` `LangGraph` `LangChain` `Azure` `Vector DBs` |
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harkiran11&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harkiran11&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
 </p>
 
-</div>
-
----
-
-## 🛠️ Technical Arsenal
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <!-- Using skillicons.dev for a clean, uniform grid of exact brand logos -->
-    <img src="https://skillicons.dev/icons?i=python,java,cpp,c,go,ts,sql,bash&perline=8" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,terraform,ansible,jenkins,linux&perline=8" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,pytorch,tensorflow,react,nodejs,flask&perline=8" />
-  </a>
-</div>
-
----
-
-## 💼 Experience & Scale
-
-| Role | Company | Impact |
-| :--- | :--- | :--- |
-| 🏦 **Software Engineer Intern**<br/><sub>*Identity & Security (CIAM)*</sub> | **TD Bank** | Built Java CIAM auth services serving **10M+ users**. Led zero-downtime production deployment across US/CA during RHEL 7→8 upgrade. Configured Dynatrace + Splunk observability. |
-| 🏙️ **IT Trainee**<br/><sub>*Infrastructure & Platform*</sub> | **City of Toronto** | Built Node.js REST APIs and real-time dashboards for a **500+ server fleet**. Automated administration with Ansible, eliminating 20% of manual overhead. |
-
----
-
-## 🚀 Featured Engineering
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Harkiran11/omnidoc">OmniDoc</a></h3>
-      <p><b>Multimodal Document Intelligence</b></p>
-      <p>Built inference pipeline and batching logic on <b>AMD MI300X (192GB HBM3)</b> running Llama 3.2 Vision & Qwen-VL. Achieved 340 pages/min (18x faster than CPU baseline). Chart-level Q&A with full citations.</p>
-      <p><code>Python</code> <code>ROCm</code> <code>Llama Vision</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/Harkiran11/ml-experiment-tracker">ML Experiment Tracker</a></h3>
-      <p><b>High-Throughput Polling Dashboard</b></p>
-      <p>Solved a read-heavy polling bottleneck (every 5s) by placing <b>Redis</b> in front of Postgres. Implemented 30s TTL with write-invalidations for sub-100ms reads under heavy load. Live cache hit/miss tracking.</p>
-      <p><code>React</code> <code>Flask</code> <code>Redis</code> <code>PostgreSQL</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏎️ CUDA Matrix Engine</h3>
-      <p><b>Hardware-Optimized Compute</b></p>
-      <p>Developed a custom GPU kernel utilizing <b>shared memory tiling</b> and memory coalescing. Profiled via NVIDIA Nsight Compute to resolve memory-bound bottlenecks on large matrix workloads.</p>
-      <p><code>CUDA</code> <code>C++</code> <code>Nsight Compute</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Harkiran11/pathfinderai">PathFinderAI</a></h3>
-      <p><b>Agentic RAG System</b></p>
-      <p>Built multi-agent workflows with persistent state across conversational turns. Integrated live data APIs and semantic vector search using <b>LangGraph</b> for reasoning chains.</p>
-      <p><code>Python</code> <code>LangGraph</code> <code>Azure</code></p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harkiran11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=8b949e&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harkiran11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=6" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harkiran11&theme=github-dark&hide_border=true&background=0d1117&ring=3fb950&fire=3fb950&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>B.Eng. Software Engineering @ McMaster University · Advanced Diploma CST @ Centennial College</sub>
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harkiran11&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
